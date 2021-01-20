@@ -1,1 +1,1 @@
-# Note-Taker
+Do you ever forget that one thing you needed to do? Well this program solves it all! Your own note taker! Why use your phone when you can use your computer? Physical keyboards are faster get those notes down quick!
